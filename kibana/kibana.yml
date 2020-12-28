@@ -4,4 +4,4 @@ elasticsearch.hosts: [ "http://elasticsearch:9200" ]
 xpack.monitoring.ui.container.elasticsearch.enabled: true
  
 elasticsearch.username: elastic
-elasticsearch.password: yourstrongpasswordhere
+elasticsearch.password: Dangtuan12
