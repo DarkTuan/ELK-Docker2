@@ -1,0 +1,1 @@
+COPY ./kibana.yml /usr/share/kibana/config/
